@@ -7,7 +7,7 @@ const config = {
 
     nickname: "MANSI", // nickname(optional)
 
-    pic: "resources\img\MANSI.jpeg", //image url of recipients (Mandatory)
+    pic: ".\resources\img\MANSI.jpeg", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
